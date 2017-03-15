@@ -15,27 +15,27 @@ and open the template in the editor.
 }
 
 .uno {
-	background: url(fondoNav.jpg) 0 0 no-repeat;
+    background: url(fondoNav.jpg) 0 0 no-repeat;
 
 }
 
 #footer {
-	background: url(9.jpg) 0 0 no-repeat;
-	
-	
+    background: url(9.jpg) 0 0 no-repeat;
+
+
 }
 
 
 body {font-family: Arial, Helvetica, sans-serif;}
 
 table {     font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
-    font-size: 12px;    margin: 45px;     width: 480px; text-align: left;    border-collapse: collapse; }
+            font-size: 12px;    margin: 45px;     width: 480px; text-align: left;    border-collapse: collapse; }
 
 th {     font-size: 13px;     font-weight: normal;     padding: 8px;     background: #b9c9fe;
-    border-top: 4px solid #aabcfe;    border-bottom: 1px solid #fff; color: #039; }
+         border-top: 4px solid #aabcfe;    border-bottom: 1px solid #fff; color: #039; }
 
 td {    padding: 8px;     background: #e8edff;     border-bottom: 1px solid #fff;
-    color: #669;    border-top: 1px solid transparent; }
+        color: #669;    border-top: 1px solid transparent; }
 
 tr:hover td { background: #d0dafd; color: #339; }
 
