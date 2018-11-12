@@ -1,4 +1,4 @@
-# TarjetaSonido-CRUD-JSP-SQL-Andres
+# TarjetaSonido-CRUD-JSP-SQL
 
 
 ![Alt text](/1t.png?raw=true "Principal")
